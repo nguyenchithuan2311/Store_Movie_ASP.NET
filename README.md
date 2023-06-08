@@ -1,1 +1,3 @@
-# Store_Movie_ASP.NET
+- Website made about movie watching website (with special features for administrators) can search for the movie you want
+- The application is quite simple to make
+- Anyone who clones this project or finds this project interesting, please let me know by sending me a star
